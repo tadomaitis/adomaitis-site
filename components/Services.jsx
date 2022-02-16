@@ -5,7 +5,7 @@ const Services = () => {
   return (
     <section id='services' className='px-11'>
       <div className="py-8 md:py-12 lg:py-18 grid place-items-center">
-        <SectionTitle content='Nossos Serviços' />
+        <SectionTitle content='Nossos serviços' />
       </div>
       <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 pb-16">
         <Card
