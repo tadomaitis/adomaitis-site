@@ -12,6 +12,7 @@ const Hero = () => {
             width={2400}
             height={3600}
             className="rounded-xl"
+            priority
           />
         </div>
         <div className="md:w-2/3 max-w-lg py-8 md:py-0">
