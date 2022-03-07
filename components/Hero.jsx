@@ -16,7 +16,7 @@ const Hero = () => {
           />
         </div>
         <div className='md:w-2/3 max-w-lg py-8 md:py-0'>
-          <h1 className='mb-5 text-5xl font-bold'>AC Consultoria!</h1>
+          <h1 className='mb-5 text-5xl font-bold'>AConsultoria!</h1>
           <p className='mb-5'>
             Criando pontes entre o seu negócio e a tecnologia
           </p>

@@ -9,7 +9,9 @@ const Services = () => {
         <h3 className='mt-2 md:text-center'>
           Cada serviço é pensado e desenvolvido de forma personalizada de acordo
           com o seu negócio.
-          <br /> Alguns dos serviços solicitados...
+        </h3>
+        <h3 className='mt-2 md:text-center'>
+          Veja alguns dos serviços que a AConsultoria oferece:
         </h3>
       </div>
       <div className='grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 pb-16'>

@@ -14,7 +14,6 @@ const Card = ({ title, imagePath, imageDescription }) => (
     </figure>
     <div className='justify-end card-body grid place-items-center'>
       <h2 className='card-title text-3xl'>{title}</h2>
-      {/* <p className='text-lg'>{description}</p> */}
     </div>
   </div>
 )
